@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 6e5650c7-efbf-4e55-81ab-ad7d379f14cd
+      url: 'https://sbwatts.quarto.pub/sbw'
