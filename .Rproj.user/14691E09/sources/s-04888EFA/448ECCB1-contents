@@ -1,0 +1,26 @@
+---
+title: ""
+image:
+links:
+  - label: '<i class="fab fa-github fa-lg"></i>'
+    url: https://github.com/sBwatts
+  - label: '<i class="fab fa-twitter fa-lg"></i>'
+    url: https://twitter.com/SethBWatts
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+#### Welcome to my personal website!
+
+I am a third year PhD student at [Arizona State University](https://www.asu.edu/) in the Criminology and Criminal Justice Program, and I work in the [Center for Violence Prevention and Community Safety](https://cvpcs.asu.edu/). I broadly focus on policing and program evaluation. Specific interests include policing and public health, particularly opioid related issues. 
+
+

@@ -1,0 +1,14 @@
+{
+  "research.qmd": {
+    "research.html": "f49a0d5c"
+  },
+  "index.qmd": {
+    "index.html": "ba595bff"
+  },
+  "about.qmd": {
+    "about.html": "bb98eebd"
+  },
+  "cv/swatts-cv.Rmd": {
+    "swatts-cv.html": "190be812"
+  }
+}
