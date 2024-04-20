@@ -1,6 +1,11 @@
 project:
   type: website
   
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
+  
 website:
   title: "Seth Watts"
   description: "Personal website of Seth Watts"
@@ -9,12 +14,15 @@ website:
       - href: index.qmd
         text: Home
       #- href: about.qmd
+      #- href: "research/index.qmd"
+      #- text: "Research"
       - href: research.qmd
+        text: Research
       - href: cv/swatts-cv.pdf
         text: CV
 format: 
   html:
-    theme: lux
+    theme: cosmo
     toc: true
   
   

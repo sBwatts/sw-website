@@ -1,0 +1,30 @@
+---
+title: "Investigating the prevalence and utility of police body-worn cameras in the George Floyd protests"
+date: 2022-07-22
+author:
+  - Janne E. Gaub
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Michael D. White
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Aili Malm
+    #affiliation: School of Criminology, Criminal Justice, and Emergency Management, California State University at Long Beach
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Katherine Leigh Brown
+categories:
+  - Policing
+  - Body-worn cameras
+  - Protests
+doi: 10.1108/PIJPSM-10-2021-0151
+---
+<br>
+
+## Abstract
+
+*Purpose* – Unlike protests against police brutality in the past (2014 and earlier), police officers responding to First Amendment-protected demonstrations in summer 2020 likely were wearing body-worn cameras(BWCs). This study seeks to understand police perceptions of the effects of BWCs when used in the George Floyd protests. 
+
+*Design/methodology/approach* – The authors use survey data from 100 agencies with federally-funded BWCs to assess the prevalence of BWC deployment to George Floyd protests and perceived benefits and limitations of the technology within this unique context.
+
+*Findings* – About three-quarters of agencies encountered some level of demonstration/protest related to the killing of George Floyd, and the majority of those deployed BWCs during these demonstrations. Respondents indicated evidentiary value of footage was a key reason for doing so, and at least three preconditions for a civilizing effect were present.

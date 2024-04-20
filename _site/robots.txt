@@ -1,1 +1,1 @@
-Sitemap: https://sbwatts.quarto.pub/seth-watts/sitemap.xml
+Sitemap: https://sbwatts.quarto.pub/sbw/sitemap.xml

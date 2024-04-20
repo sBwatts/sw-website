@@ -1,0 +1,29 @@
+---
+title: "Can police de-escalation training reduce use of force and citizen injury without compromising officer safety?"
+date: 2023-08-11
+author:
+  - Michael D. White
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Carlena Orosco
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+categories:
+  - Policing
+  - Use of force
+  - De-escalation
+doi: 10.1007/s11292-023-09584-8
+---
+<br>
+
+## Abstract
+
+*Objectives.* We test the impact of de-escalation training on the behavior of officers in the Tempe (AZ) Police Department.
+
+*Methods.* The training was delivered via a squad-based randomized controlled trial. We examine administrative use of force data and body-worn camera footage for all use of force encounters six months pre- and post-training. Outcomes include prevalence and force types used, encounter duration, and citizen and officer injuries.
+
+*Outcomes.* Use of force declined for Treatment and Control squads, likely because of the global pandemic. Trained officers decreased use of certain force types likely to produce injury. Trained officers spent significantly more time on scene, and they were 58% less likely to injure community members. These changes occurred with no increased risk of officer injury.
+
+*Conclusions.* The differences in key outcomes are consistent with a positive training effect. Factors that may explain the results include the curriculum development process, focus on officer safety/wellness, officer receptivity, and use of refresher trainings.
+
+Similar content being viewed by others

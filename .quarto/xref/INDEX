@@ -13,5 +13,41 @@
   },
   "how-to-quarto-website.qmd": {
     "how-to-quarto-website.html": "4726b6e2"
+  },
+  "research/articles/beyond-narcan-2021/index.qmd": {
+    "index.html": "a3dafa28"
+  },
+  "research/index.qmd": {
+    "index.html": "36e980f1"
+  },
+  "research/articles/narcan-cops-2021/index.qmd": {
+    "index.html": "d052a1de"
+  },
+  "research/articles/prevelance-utility-bwcs-protests-2022/index.qmd": {
+    "index.html": "a23ec7a8"
+  },
+  "research/beyond-narcan.qmd": {
+    "beyond-narcan.html": "e5f8c5b3"
+  },
+  "research/articles/deescalation-force-citzinjury-2023/index.qmd": {
+    "index.html": "dee47798"
+  },
+  "research/articles/beyond-uof-2023/index.qmd": {
+    "index.html": "4652803d"
+  },
+  "research/articles/leveraging-bwcs-ajph-2022/index.qmd": {
+    "index.html": "a13e7e9d"
+  },
+  "research/articles/police-line-of-duty-deaths-2023/index.qmd": {
+    "index.html": "b9dd6fe0"
+  },
+  "cv/swatts-cv.knit.md": {
+    "swatts-cv.knit.html": "5bc2a309"
+  },
+  "research/working-papers/police-proximity-homelessness/index.qmd": {
+    "index.html": "f105ccc4"
+  },
+  "research/working-papers/compassion-fatigue-tpd/index.qmd": {
+    "index.html": "6f70fa5d"
   }
 }

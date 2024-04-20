@@ -1,0 +1,16 @@
+---
+title: "Does Proximity to Service Providers Impact Punitivity in Stop Outcomes for Individuals Experiencing Homelessness?"
+#date:
+author:
+  - Katherine L Brown
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Patricia Turner
+  - Danielle Wallace
+categories:
+  - Policing
+  - Homelessness
+---
+
+

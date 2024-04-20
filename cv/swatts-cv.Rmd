@@ -14,7 +14,7 @@ address: School of Criminology and Criminal Justice, Arizona State University
 fontawesome: yes
 email: swatts12@asu.edu
 # phone: 513-335-9275
-web: sBwatts.github.io
+web: https://sbwatts.quarto.pub/sbw/
 updated: yes
 
 #keywords: R Markdown, academic CV, template

@@ -1,0 +1,26 @@
+---
+title: "Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis"
+date: 2021-07-03
+author:
+  - Michael D. White
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Dina Perrone
+    #affiliation: School of Criminology, Criminal Justice, and Emergency Management, California State     University at Long Beach
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Aili Malm
+    #affiliation: School of Criminology, Criminal Justice, and Emergency Management, California State University at Long Beach
+categories:
+  - Policing
+  - Naloxone
+  - Post-overdose outreach
+  - Public safety & public health collaboration
+doi: 10.1007/s12103-021-09625-w
+---
+<br>
+
+## Abstract
+
+The opioid crisis is the most persistent, long-term public health emergency facing the United States, and available evidence suggests the crisis has worsened during the COVID-19 global pandemic. Naloxone is an effective overdose response that saves lives, but the drug does not address problematic drug use, addiction, or the underlying conditions that lead to overdoses. The opioid crisis is at its core a multidisciplinary, multisystem problem, and an effective response to the crisis requires collaboration across those various systems. This paper describes such a collaborative effort. The Tempe First-Responder Opioid Recovery Project is a multidisciplinary partnership that includes police officers, social workers, substance use peer counselors, public health professionals, police researchers, and drug policy/harm reduction researchers. The project, 10 months underway, trained and equipped Tempe (AZ) police officers to administer Narcan. In addition, a 24/7 in-person “Crisis Outreach Response Team” rapidly responds to any suspected overdose and offers follow-up support, referrals, and services to the individual (and loved ones) for up to 45 days after the overdose. We present preliminary project data including interviews with project managers, counselors, and police officers, descriptions of Narcan administrations in the field, and aggregate data on client service engagement. These data highlight the complexity of the opioid crisis, the collaborative nature of the Tempe project, and the importance of initiating a multidisciplinary, comprehensive response to effectively deal with the opioid problem.
+

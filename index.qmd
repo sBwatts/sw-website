@@ -1,12 +1,9 @@
 ---
-title: "Seth Watts"
+title: ""
 page-layout: full
 image: /image.png
 resources: 
   - "image.png"
-# format:
-  # html:
-    # theme: lux
 ---
 
 ```{r}

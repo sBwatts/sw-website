@@ -1,41 +1,35 @@
 ---
-title: "Research"
-format:
-  html:
-    theme: lux
-    toc: true
+title: ""
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    type: table
+    categories: true
+    sort-ui: true
+    filter-ui: false
+    table-hover: true
+    fields: [date, title]
+  - id: working-papers
+    contents: "working-papers/*/index.qmd"
+    sort: "date desc"
+    type: table
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    table-hover: true
+    fields: [title]
+date-format: "YYYY"
+page-layout: full
+title-block-banner: true
 ---
 
-```{r}
+## Journal articles
 
-```
+:::{#articles}
+:::
 
-## Published
+## Working papers
 
-#### 2023
-
-White, M. D., Monk, K., **Watts, S**. (2023). A Half-Century Investigation of Police Officer Line-of-Duty Deaths: Putting Recent Trends in Long-Term Context. *Police Practice and Research*, 1-18. ([DOI](https://www-tandfonline-com.ezproxy1.lib.asu.edu/doi/abs/10.1080/15614263.2023.2267728))
-
-White, M. D., Orosco, C., **Watts, S**. (2023) Beyond Force and Injuries: Examining Alternative (and Important) Outcomes for Police De-escalation Training. *Journal of Criminal Justice*, 89, 102129. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235223001009?casa_token=OxErc72pD-QAAAAA:XATyRNg9im-Y4tSAmatE2RofJft49bpMx7c4_fOCiLyqIILE_rMDU03IA2yVHSmdepnLIrpzNfw))
-
-White, D. M., Orosco, C., **Watts, S**. (2023). Can De-escalation Training Reduce Use of Force and Citizen Injury Without Compromising Officer Safety? *Journal of Experimental Criminology*, 1-26. ([DOI](https://link-springer-com.ezproxy1.lib.asu.edu/article/10.1007/s11292-023-09584-8))
-
-#### 2022
-
-White, M. D., **Watts, S**., Orosco, C., Malm, A., Perrone, D. (2022). Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs. *American Journal of Public Health*, *112*(9), 1326-1332. ([DOI](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2022.306918))
-
-Gaub, J., White, M., Malm, A., **Watts, S**., Brown, K. (2022). Investigation the Role and Utility of Body-Worn Cameras at the “George Floyd” Protests. *Policing: An International Journal*, *45*(4), 633-647. ([DOI](https://www.emerald.com/insight/content/doi/10.1108/PIJPSM-10-2021-0151/full/html))
-
-#### 2021
-
-White, M. D., Perrone, D., **Watts, S**., Malm, A. (2021). Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis. *American Journal of Criminal Justice*, *46*(4), 626-643. ([DOI](https://link-springer-com.ezproxy1.lib.asu.edu/article/10.1007/s12103-021-09625-w))
-
-White, M. D., Malm, A., Perrone, D., **Watts, S**. (2021). Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone. *Journal of Criminal Justice*, 72, 101778. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235220302725?casa_token=M3KzLm4DIoUAAAAA:KhQQ6E6WpFcNQdyfTN33-SRHRPttqc81ijlWaNX0wOOYu3TiHBIa17DzDZS2_7K_vU9_CQwdAaA)) 
-
-## Working
-
-Brown, K., **Watts, S**., Turner, P., & Wallace, D. *R&R*. How Does Proximity to Service Providers Impact Punitivity in Stop Outcomes for Individuals Experiencing Homelessness?
-
-**Watts, S**., White, M. D., Malm, A., Perrone, D. The Durability of Police Officers’ Attitudes about Naloxone and Opioid Overdose Response: ‘Narcan Cops’ Revisited.
-
-**Watts, S**. LEO Liability When Administering Naloxone.
+:::{#working-papers}
+:::

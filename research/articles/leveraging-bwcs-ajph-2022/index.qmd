@@ -1,0 +1,35 @@
+---
+title: "Leveraging body-worn camera footage to better understand opioid overdoses and the impact of police-administered naloxone"
+date: 2022-08-15
+author:
+  - Michael D. White
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Carlena Orosco
+  - Dina Perrone
+    #affiliation: School of Criminology, Criminal Justice, and Emergency Management, California State     University at Long Beach
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Aili Malm
+    #affiliation: School of Criminology, Criminal Justice, and Emergency Management, California State University at Long Beach
+
+categories:
+  - Policing
+  - Naloxone
+  - Body-worn cameras
+  - Opioid overdose
+doi: 10.2105/AJPH.2022.306918
+---
+<br>
+
+## Abstract
+
+*Objectives.* To investigate what transpires at opioid overdoses where police administer naloxone and to identify the frequency with which concerns about police-administered naloxone are observed.
+
+*Methods.* We reviewed body-worn camera (BWC) footage of all incidents where a Tempe, Arizona police officer administered naloxone or was present when the Tempe Fire Medical Rescue (TFMR) administered it, from February 3, 2020 to May 7, 2021 (n = 168). We devised a detailed coding instrument and employed univariate and bivariate analysis to examine the frequency of concerns regarding police-administered naloxone.
+
+*Results.* Police arrived on scene before the TFMR in 73.7% of cases. In 88.6% of calls the individual was unconscious when police arrived, but 94.6% survived the overdose. The primary concerns about police-administered naloxone were rarely observed. There were no cases of improper naloxone administration or accidental opioid exposure to an officer. Aggression toward police from an overdose survivor rarely occurred (3.6%), and arrests of survivors (3.6%) and others on scene (1.2%) were infrequent.
+
+*Conclusions.* BWC footage provides a unique window into opioid overdoses. In Tempe, the concerns over police-administered naloxone are overstated. If results are similar elsewhere, those concerns are barriers that must be removed. 
