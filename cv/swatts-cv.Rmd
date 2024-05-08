@@ -34,7 +34,11 @@ urlcolor: blue
 
 PhD, Criminology and Criminal Justice \hfill Expected 2024
 
+*Dissertation*: Fostering Collaborative Solutions in the Opioid Overdose Crisis: Law Enforcement as a Potential Partner in Reducing Fatalities
+
 Certificate, [Social Science Research Methods](https://degrees.apps.asu.edu/masters-phd/major/ASU00/LASSRMGRCT/social-science-research-methods-graduate-certificate)
+
+\vspace{1mm}
 
 MS, Criminology and Criminal Justice  \hfill 2019-2021
 
@@ -134,7 +138,6 @@ White, M. D., Watts, S., Orosco, C., Malm, A., Perrone, D (March 2022). Myth bus
 
 White, M. D., Orosco, C. A., Watts, S., Malm, A., Perrone, D (2020). The Tempe First Responder Opioid Recovery Project. Southern Criminal Justice Association.$^P$
 
-
 \vspace{2mm}
 
 ## Other Presentations
@@ -147,29 +150,33 @@ White, M. D., Watts, S. (2024). Making the Invisible Visible: Body-Worn Cameras 
 
 ## Instructor
 
-CRJ: 201 Crime Control Policies (Online) \hfill Summer 2023
+CRJ: 409 Police accountability (Online) \hfill 2024
 
-CRJ: 303 Statistical Analyses (Online) \hfill Summer 2023
+CRJ: 201 Crime Control Policies (Online) \hfill 2023
 
-CRJ: 100 Introduction to Criminal Justice (Online) \hfill Summer 2022
+CRJ: 303 Statistical Analyses (Online) \hfill 2023
 
-CRJ: 302 Research Methods (Online) \hfill Summer 2022
+CRJ: 100 Introduction to Criminal Justice (Online) \hfill 2022
+
+CRJ: 302 Research Methods (Online) \hfill 2022
 
 \vspace{2mm}
 ## Teaching Assistant
 					
-CRJ: 230 Introduction to Policing (Online) \hfill Spring 2023
+CRJ: 230 Introduction to Policing (Online) \hfill 2023
 
-CRJ: 409 Police Accountability \hfill Spring 2023
+CRJ: 409 Police Accountability \hfill 2023
 
-CRJ: 230 Introduction to Policing (Online) \hfill Spring 2020
+CRJ: 230 Introduction to Policing (Online) \hfill 2019, 2020
 
-CRJ: 230 Introduction to Policing (Online) \hfill Fall 2019
-
-CRJ: 240 Introduction to Corrections (Online) \hfill Fall 2019
+CRJ: 240 Introduction to Corrections (Online) \hfill 2019
 
 \vspace{2mm}
 # Activities and Service
+
+## Guest Lectures and Workshops
+
+"[Table-making in Stata](https://github.com/sBwatts/table-making-stata)," workshop at Arizona State University. April 12, 2024.
 
 ## Conferences Attended
 

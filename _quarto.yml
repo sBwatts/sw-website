@@ -18,7 +18,7 @@ website:
       #- text: "Research"
       - href: research.qmd
         text: Research
-      - href: cv/swatts-cv.pdf
+      - href: cv1/watts-cv.pdf
         text: CV
 format: 
   html:

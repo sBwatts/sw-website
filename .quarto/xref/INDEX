@@ -49,5 +49,8 @@
   },
   "research/working-papers/compassion-fatigue-tpd/index.qmd": {
     "index.html": "6f70fa5d"
+  },
+  "cv/template.qmd": {
+    "template.tex": "502eb869"
   }
 }
