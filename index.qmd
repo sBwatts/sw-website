@@ -1,48 +1,31 @@
 ---
 title: ""
+about:
+  template: jolla
+  image: headshot.jpg
+  image-width: 13em
+  links:
+    - icon: twitter
+      text: X
+      href: https://x.com/SethBWatts
+    - icon: github
+      text: Github
+      href: https://github.com/sBwatts
 page-layout: full
-image: /image.png
 resources: 
-  - "image.png"
+  - "headshot.jpg"
 ---
 
 ```{r}
 
 ```
 
-::: {.column-page-inset}
-::: {.column-page-inset-left}
 
-I am a PhD candidate in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://www.asu.edu/). 
+I am a PhD candidate in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research interests broadly include policing and program evaluation. Specific interests include the role of the police in the opioid crisis and related public health issues, technological innovation within police departments, and time series modeling.
 
-My research interests broadly include policing and program evaluation. Specific interests include the role of the police in the opioid crisis and related public health issues, technological innovation within police departments, and time series modeling.
 
-:::
 
-<div class="column-margin column-container">
-![](image.png){.rounded}
-</div>
 
-:::
 
-<br>
 
-::: {.column-page-inset .text-center}
 
-```{=html}
-<a class="btn btn-outline-dark", href="https://twitter.com/SethBWatts" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
-    
-</a>
-
-<a class="btn btn-outline-dark", href="https://github.com/sBwatts" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role='img' aria-label='Github'></i>
-
-</a>
-
-<a class="btn btn-outline-dark", href="mailto:swatts12@asu.edu" target="_blank" rel="noopener noreferrer">
-    <i class="ai bi-envelope" role='img' aria-label='email'></i>
-</a>
-```
-
-:::

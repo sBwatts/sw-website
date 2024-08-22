@@ -52,5 +52,11 @@
   },
   "cv/template.qmd": {
     "template.tex": "502eb869"
+  },
+  "cv2/cv2.qmd": {
+    "cv2.tex": "e49d7891"
+  },
+  "cv2/LICENSE.md": {
+    "LICENSE.html": "dcb74735"
   }
 }
