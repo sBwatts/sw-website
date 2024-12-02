@@ -1,0 +1,39 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/articles/police-line-of-duty-deaths-2023/index.html",
+      "/sw-website/research/articles/police-line-of-duty-deaths-2023/index.html",
+      "/research/articles/beyond-uof-2023/index.html",
+      "/sw-website/research/articles/beyond-uof-2023/index.html",
+      "/research/articles/deescalation-force-citzinjury-2023/index.html",
+      "/sw-website/research/articles/deescalation-force-citzinjury-2023/index.html",
+      "/research/articles/leveraging-bwcs-ajph-2022/index.html",
+      "/sw-website/research/articles/leveraging-bwcs-ajph-2022/index.html",
+      "/research/articles/prevelance-utility-bwcs-protests-2022/index.html",
+      "/sw-website/research/articles/prevelance-utility-bwcs-protests-2022/index.html",
+      "/research/articles/beyond-narcan-2021/index.html",
+      "/sw-website/research/articles/beyond-narcan-2021/index.html",
+      "/research/articles/narcan-cops-2021/index.html",
+      "/sw-website/research/articles/narcan-cops-2021/index.html",
+      "/research/working-papers/compassion-fatigue-tpd/index.html",
+      "/research/working-papers/police-proximity-homelessness/index.html",
+      "/sw-website/research/working-papers/compassion-fatigue-tpd/index.html",
+      "/sw-website/research/working-papers/police-proximity-homelessness/index.html"
+    ]
+  },
+  {
+    "listing": "/sw-website/research.html",
+    "items": [
+      "/sw-website/research/articles/police-line-of-duty-deaths-2023/index.html",
+      "/sw-website/research/articles/beyond-uof-2023/index.html",
+      "/sw-website/research/articles/deescalation-force-citzinjury-2023/index.html",
+      "/sw-website/research/articles/leveraging-bwcs-ajph-2022/index.html",
+      "/sw-website/research/articles/prevelance-utility-bwcs-protests-2022/index.html",
+      "/sw-website/research/articles/beyond-narcan-2021/index.html",
+      "/sw-website/research/articles/narcan-cops-2021/index.html",
+      "/sw-website/research/working-papers/compassion-fatigue-tpd/index.html",
+      "/sw-website/research/working-papers/police-proximity-homelessness/index.html"
+    ]
+  }
+]
