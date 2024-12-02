@@ -58,5 +58,44 @@
   },
   "cv2/LICENSE.md": {
     "LICENSE.html": "dcb74735"
+  },
+  "sw-website/cv2/cv2.qmd": {
+    "cv2.tex": "16cd5a06"
+  },
+  "sw-website/index.qmd": {
+    "index.html": "656ac40d"
+  },
+  "sw-website/research.qmd": {
+    "research.html": "1bc72692"
+  },
+  "sw-website/research/articles/beyond-narcan-2021/index.qmd": {
+    "index.html": "09abb3b8"
+  },
+  "sw-website/research/articles/beyond-uof-2023/index.qmd": {
+    "index.html": "b4cd65ca"
+  },
+  "sw-website/research/articles/deescalation-force-citzinjury-2023/index.qmd": {
+    "index.html": "690878ae"
+  },
+  "sw-website/research/articles/leveraging-bwcs-ajph-2022/index.qmd": {
+    "index.html": "7b5f2bb2"
+  },
+  "sw-website/research/articles/narcan-cops-2021/index.qmd": {
+    "index.html": "7f1c16c6"
+  },
+  "sw-website/research/articles/police-line-of-duty-deaths-2023/index.qmd": {
+    "index.html": "f6173ca1"
+  },
+  "sw-website/research/articles/prevelance-utility-bwcs-protests-2022/index.qmd": {
+    "index.html": "8404353a"
+  },
+  "sw-website/research/working-papers/compassion-fatigue-tpd/index.qmd": {
+    "index.html": "35e35a93"
+  },
+  "sw-website/research/working-papers/police-proximity-homelessness/index.qmd": {
+    "index.html": "9e772d9e"
+  },
+  "sw-website/cv2/LICENSE.md": {
+    "LICENSE.html": "df32cb3d"
   }
 }
