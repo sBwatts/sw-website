@@ -15,7 +15,7 @@ fontfamily: cochineal # default font LaTeX package https://tug.org/FontCatalogue
 #orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: qn8y6 # osf five character id
 #twitter: twitter # twitter handle
-web: sethbwatts.quarto.pub/sethbwatts
+web: sethbwatts.com
 fontawesome: yes
 nocite: '@*'
 bibliography: 
@@ -29,7 +29,7 @@ csl: apa-cv.csl
 
 *Arizona State University*
 
-PhD, Criminology and Criminal Justice \hfill Expected 2024
+PhD, Criminology and Criminal Justice \hfill 2024
 
 Dissertation: Fostering Collaborative Solutions in the Opioid Overdose Crisis: Law Enforcement as a Potential Partner in Reducing Fatalities
 
@@ -41,55 +41,57 @@ BA, Psychology \hfill 2019
 
 # Research Interests
 
-Policing, Public health, Program evaluation
+Policing: innovation, intersection with public health issues, and technology; Program evaluation
 
-## Working Papers
+# Working Papers
 
-**Watts, S**., White, M. D., & Malm, A. Automating Body-Worn Camera Footage Review through AI: Preliminary Findings from a Multi-Site Randomized Control Trial. Submitted to *Policing: A Journal of Policy and Practice*. [(Pre-print)](https://www.crimrxiv.com/pub/8xm0r2jv/release/1)
-
-**Watts, S**., White, M. D., Malm, A., & Perrone, D. The Durability of Police Officers’ Attitudes about Naloxone and Opioid Overdose Response: ‘Narcan Cops’ Revisited. Submitted to the *Journal of Criminal Justice*.
-
-White, M. D., Orosco, C., & **Watts, S**. More than Use of Force: Examining Alternative Outcomes for Police De-escalation. *Applied Police Briefings*.
-
-**Watts, S**., White, M. D., Malm, A., Orosco, C., & Perrone, D. Understanding Police Involvement at Opioid Overdose Incidents Through Body-Worn Camera Footage. *Applied Police Briefings*.
-
+Orosco, C., White, M. D., & **Watts, S**. Can deescalation training reduce use of force and injuries to citizens without risking officer safety? *Applied Police Briefings*.
 
 # Publications
 
+[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 92, h-index = 5, i10-index = 3
+
 ## Peer-Reviewed Journal Articles
 
-Brown, K., **Watts, S**., Turner, P., & Wallace, D. (2024). How Does Proximity to Service Providers Impact Punitivity in Stop Outcomes for Individuals Experiencing Homelessness? *Journal of Crime and Justice*. ([DOI](https://doi-org.ezproxy1.lib.asu.edu/10.1080/0735648X.2024.2375371))
+\noindent 1. **Watts, S**., White, M. D., Malm, A., & Perrone, D. (2024). Who is Fatigued? Examining Officer Attitudes Towards People Who Use Opioids, Naloxone, and Their Role in Responding to Opioid Overdoses. Submitted to the *Journal of Criminal Justice*. [(DOI)](https://doi.org/10.1016/j.jcrimjus.2024.102308) 
 
-White, M. D., Monk, K., & **Watts, S**. (2023). A Half-Century Investigation of Police Officer Line-of-Duty Deaths: Putting Recent Trends in Long-Term Context. *Police Practice and Research*, 1-18. ([DOI](https://www-tandfonline-com.ezproxy1.lib.asu.edu/doi/abs/10.1080/15614263.2023.2267728))
+\noindent 2. **Watts, S**., White, M. D., & Malm, A. (2024). Automating Body-Worn Camera Footage Review through AI: Preliminary Findings from a Multi-Site Randomized Control Trial. Submitted to *Policing: A Journal of Policy and Practice*. [(Pre-print)](https://www.crimrxiv.com/pub/8xm0r2jv/release/1) [(DOI)](https://doi.org/10.1093/police/paae107)
 
-White, M. D., Orosco, C., & **Watts, S**. (2023) Beyond Force and Injuries: Examining Alternative (and Important) Outcomes for Police De-escalation Training. *Journal of Criminal Justice*, 89, 102129. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235223001009?casa_token=OxErc72pD-QAAAAA:XATyRNg9im-Y4tSAmatE2RofJft49bpMx7c4_fOCiLyqIILE_rMDU03IA2yVHSmdepnLIrpzNfw))
+\noindent 3. Brown, K., **Watts, S**., Turner, P., & Wallace, D. (2024). How Does Proximity to Service Providers Impact Punitivity in Stop Outcomes for Individuals Experiencing Homelessness? *Journal of Crime and Justice*. ([DOI](https://doi-org.ezproxy1.lib.asu.edu/10.1080/0735648X.2024.2375371))
 
-White, D. M., Orosco, C., & **Watts, S**. (2023). Can De-escalation Training Reduce Use of Force and Citizen Injury Without Compromising Officer Safety? *Journal of Experimental Criminology*, 1-26. ([DOI](https://link-springer-com.ezproxy1.lib.asu.edu/article/10.1007/s11292-023-09584-8))
+\noindent 4. White, M. D., Monk, K., & **Watts, S**. (2023). A Half-Century Investigation of Police Officer Line-of-Duty Deaths: Putting Recent Trends in Long-Term Context. *Police Practice and Research*, 1-18. ([DOI](https://www-tandfonline-com.ezproxy1.lib.asu.edu/doi/abs/10.1080/15614263.2023.2267728))
 
-White, M. D., **Watts, S**., Orosco, C., Malm, A., & Perrone, D. (2022). Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs. *American Journal of Public Health*, *112*(9), 1326-1332. ([DOI](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2022.306918))
+\noindent 5. White, M. D., Orosco, C., & **Watts, S**. (2023) Beyond Force and Injuries: Examining Alternative (and Important) Outcomes for Police De-escalation Training. *Journal of Criminal Justice*, 89, 102129. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235223001009?casa_token=OxErc72pD-QAAAAA:XATyRNg9im-Y4tSAmatE2RofJft49bpMx7c4_fOCiLyqIILE_rMDU03IA2yVHSmdepnLIrpzNfw))
 
-Gaub, J., White, M., Malm, A., **Watts, S**., & Brown, K. (2022). Investigation the Role and Utility of Body-Worn Cameras at the “George Floyd” Protests. *Policing: An International Journal*, *45*(4), 633-647. ([DOI](https://www.emerald.com/insight/content/doi/10.1108/PIJPSM-10-2021-0151/full/html))
+\noindent 6. White, D. M., Orosco, C., & **Watts, S**. (2023). Can De-escalation Training Reduce Use of Force and Citizen Injury Without Compromising Officer Safety? *Journal of Experimental Criminology*, 1-26. ([DOI](https://link-springer-com.ezproxy1.lib.asu.edu/article/10.1007/s11292-023-09584-8))
 
-White, M. D., Perrone, D., &**Watts, S**., & Malm, A. (2021). Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis. *American Journal of Criminal Justice*, *46*(4), 626-643. ([DOI](https://link-springer-com.ezproxy1.lib.asu.edu/article/10.1007/s12103-021-09625-w))
+\noindent 7. White, M. D., **Watts, S**., Orosco, C., Malm, A., & Perrone, D. (2022). Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Led Naloxone Programs. *American Journal of Public Health*, *112*(9), 1326-1332. ([DOI](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2022.306918))
 
-White, M. D., Malm, A., Perrone, D., & **Watts, S**. (2021). Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone. *Journal of Criminal Justice*, 72, 101778. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235220302725?casa_token=M3KzLm4DIoUAAAAA:KhQQ6E6WpFcNQdyfTN33-SRHRPttqc81ijlWaNX0wOOYu3TiHBIa17DzDZS2_7K_vU9_CQwdAaA))
+\noindent 8. Gaub, J., White, M., Malm, A., **Watts, S**., & Brown, K. (2022). Investigation the Role and Utility of Body-Worn Cameras at the “George Floyd” Protests. *Policing: An International Journal*, *45*(4), 633-647. ([DOI](https://www.emerald.com/insight/content/doi/10.1108/PIJPSM-10-2021-0151/full/html))
 
+\noindent 9. White, M. D., Perrone, D., & **Watts, S**., & Malm, A. (2021). Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis. *American Journal of Criminal Justice*, *46*(4), 626-643. ([DOI](https://link-springer-com.ezproxy1.lib.asu.edu/article/10.1007/s12103-021-09625-w))
+
+\noindent 10. White, M. D., Malm, A., Perrone, D., & **Watts, S**. (2021). Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone. *Journal of Criminal Justice*, 72, 101778. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235220302725?casa_token=M3KzLm4DIoUAAAAA:KhQQ6E6WpFcNQdyfTN33-SRHRPttqc81ijlWaNX0wOOYu3TiHBIa17DzDZS2_7K_vU9_CQwdAaA))
 
 ## Study Pre-registrations
 
 Seth Watts, Michael D. White, & Aili Malm. "A Process and Outcome Evaluation of Automated Body-Worn Camera Review Technology in 3 Arizona Police Departments." [Registered at OSF. Embargoed (pending results).](https://osf.io/vdycb/)
 
-## Technical Reports
+## Research Briefs & Technical Reports
 
-White, M. D., Watts, S., Malm, A. A Process and Outcome Evaluation of Automated Body-Worn Camera Review Technology in 3 Arizona Police Departments, 6-month interim report. *Arnold Ventures*.
+\noindent 1. **Watts, S**., White, M. D., Malm, A., Orosco, C., & Perrone, D. Understanding Police Involvement at Opioid Overdose Incidents Through Body-Worn Camera Footage. *Applied Police Briefings*. ([PDF](https://appliedpolicebriefings.com/index.php/APB/article/view/5019/3605))
 
-Watts, S., White, M. D., Malm, A., Perrone, D. (2023) The Tempe First-Responder Opioid Recovery Project, Year 4 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
+\noindent 2. White, M. D., Orosco, C., & **Watts, S**. More than Use of Force: Examining Alternative Outcomes for Police De-escalation. *Applied Police Briefings*. ([PDF](https://appliedpolicebriefings.com/index.php/APB/article/view/5010/3597))
 
-Watts, S., White, M. D., Malm, A., Perrone, D. (2022) The Tempe First-Responder Opioid Recovery Project, Year 3 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
+\noindent 3. White, M. D., **Watts, S**., Malm, A. A Process and Outcome Evaluation of Automated Body-Worn Camera Review Technology in 3 Arizona Police Departments, 6-month interim report. *Arnold Ventures*.
 
-White, M. D., Watts, S., Malm, A., Perrone, D. (2021) The Tempe First-Responder Opioid Recovery Project, Year 2 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
+\noindent 4. **Watts, S**., White, M. D., Malm, A., Perrone, D. (2023) The Tempe First-Responder Opioid Recovery Project, Year 4 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
 
-White, M. D., Watts, S., Malm, A., Perrone, D. (2020) The Tempe First-Responder Opioid Recovery Project, Year 1 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
+\noindent 5. **Watts, S**., White, M. D., Malm, A., Perrone, D. (2022) The Tempe First-Responder Opioid Recovery Project, Year 3 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
+
+\noindent 6. White, M. D., **Watts, S**., Malm, A., Perrone, D. (2021) The Tempe First-Responder Opioid Recovery Project, Year 2 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
+
+\noindent 7. White, M. D., **Watts, S**., Malm, A., Perrone, D. (2020) The Tempe First-Responder Opioid Recovery Project, Year 1 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
 
 # Professional Experience
 
@@ -128,6 +130,14 @@ White D. M., Perrone, D., Malm, A., & Watts, S. (September 16, 2021). The Tempe 
 
 
 ## Conference Presentations^[Presented by coauthor ($P$)]
+
+Watts, S., White, M. D., Malm, A. (November, 2024). How do Officers Perceive AI-based BWC Review Technology? Evidence from 6 Months of Survey Data. American Society of Criminology. *Sponsored by the division of Policing*.
+
+White, M. D., Malm, A., Watts, S. (November, 2024). Automating Body-Worn Camera Footage Review Through AI:
+Preliminary Findings from a Multi-Site Randomized Control Trial. American Society of Criminology. *Sponsored by the division of Experimental Criminology*.$^P$
+
+Watts, S., White, M. D. (November, 2024). Collaborative Post-Overdose Outreach Efforts to
+Engage Unhoused Individuals. American Society of Criminology.
 
 White, M. D., Watts, S. (June, 2024). Exploring the Drivers of Resistance to Police-Led
 Naloxone Programs. American Society of Evidence Based Policing. 
@@ -172,11 +182,18 @@ CRJ: 409 Police Accountability \hfill 2023
 CRJ: 240 Introduction to Corrections (Online) \hfill 2019
 
 
+# Awards
+
+American Society of Criminology, Division of Policing Travel Award ($500)   \hfill 2024
+
 # Activities and Service
 
 ## Guest Lectures and Workshops
 
+"[Graphics in Stata](https://github.com/sBwatts/figure-making-stata)," workshop at Arizona State University. September 20, 2024.
+
 "[Table-making in Stata](https://github.com/sBwatts/table-making-stata)," workshop at Arizona State University. April 12, 2024.
+
 
 ## Conferences Attended
 
@@ -193,6 +210,8 @@ Center for Undergraduate Research Symposium. Bowling Green, Ohio \hfill 2019
 
 ## Manuscript Reviews
 
+*Policing: A Journal of Policy and Practice*
+
 *Criminal Justice & Behavior*
 
 *Journal of Drug Issues*
@@ -208,13 +227,13 @@ Center for Undergraduate Research Symposium. Bowling Green, Ohio \hfill 2019
 
 ### Certifications
 
-[Social Science Research Methods Certificate](https://degrees.apps.asu.edu/masters-phd/major/ASU00/LASSRMGRCT/social-science-research-methods-graduate-certificate), Arizona State University \hfill Expected 2024
+[Social Science Research Methods Certificate](https://degrees.apps.asu.edu/masters-phd/major/ASU00/LASSRMGRCT/social-science-research-methods-graduate-certificate), Arizona State University \hfill 2024
 
 - Focus: Program evaluation, quasi-experimental designs (e.g., Difference-in-Differences, Regression Discontinuity, Fixed Effects modeling, Instrumental Variable estimation, Interrupted Time Series/Comparative Interrupted Time Series, Propensity Score Matching), modeling techniques, and model specifications (see [public course material](https://ds4ps.org/pe4ps-textbook/docs/index.html))
 
 ### Workshops
 
-[Statistics, Interpretation, Methods, and Data Workshop](https://sites.google.com/view/simdworkshop/home), [R Workshop](https://jacobtnyoung.github.io/RWorkshop/), Teaching Portfolio Development, Classroom Management and Student Engagement, Creating a Syllabus, Developing a CV/Cover Letter/Research Proposal, Preparing for the Academic Job Market, Overview of Teaching Policies, Writing Advice, Peer-Review Process, Conference Presentations, Organizing and Planning your Career, Academic Writing and Publishing
+[Statistics, Interpretation, Methods, and Data Workshop](https://sites.google.com/view/simdworkshop/home); [R Workshop](https://jacobtnyoung.github.io/RWorkshop/); Teaching Portfolio Development; Classroom Management and Student Engagement; Creating a Syllabus; Developing a CV/Cover Letter/Research Proposal; Preparing for the Academic Job Market; Overview of Teaching Policies; Writing Advice; Peer-Review Process; Conference Presentations; Organizing and Planning your Career; Academic Writing and Publishing
 
 
 ## Service to the University

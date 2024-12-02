@@ -97,5 +97,23 @@
   },
   "sw-website/cv2/LICENSE.md": {
     "LICENSE.html": "df32cb3d"
+  },
+  "research/articles/line-of-duty-deaths-2024/index.qmd": {
+    "index.html": "121284ca"
+  },
+  "research/articles/proximity-service-providers-2024/index.qmd": {
+    "index.html": "02b67654"
+  },
+  "research/articles/tempe-compassion-fatigue-2024/index.qmd": {
+    "index.html": "7233db0c"
+  },
+  "research/articles/truleo-baseline-perceptions-2024/index.qmd": {
+    "index.html": "32d19f52"
+  },
+  "research/working-papers/truleo-accept-feasibility-is/index.qmd": {
+    "index.html": "c44eda2a"
+  },
+  "research/working-papers/truleo-perceptions-multiwave/index.qmd": {
+    "index.html": "da318442"
   }
 }

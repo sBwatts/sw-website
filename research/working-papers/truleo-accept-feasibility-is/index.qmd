@@ -1,0 +1,18 @@
+---
+title: "Does Positive Reinforcment Influence Officers Perceptions of Acceptibility and Feasibility of AI-based BWC Analytics?"
+#date: TBD
+author:
+  - Seth Watts
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Brandon del Pozo
+
+  - Michael D. White
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Aili Malm
+    #affiliation: School of Criminology, Criminal Justice, and Emergency Management, California State University at Long Beach
+categories:
+  - Policing
+  - AI
+  - Implementation Science
+---

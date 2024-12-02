@@ -23,7 +23,7 @@ website:
 format: 
   html:
     theme: cosmo
-    fontsize: 0.9em
+    fontsize: 0.95em
     linestretch: 1.7
     toc: true
   

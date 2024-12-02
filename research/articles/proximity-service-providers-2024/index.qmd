@@ -1,0 +1,23 @@
+---
+title: "Does Proximity to Service Providers Impact Punitivity in Stop Outcomes for Individuals Experiencing Homelessness?"
+date: 2024-07-11
+author:
+  - Katherine L Brown
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Patricia Turner
+  - Danielle Wallace
+categories:
+  - Policing
+  - Homelessness
+  - Distance decay
+doi: https://doi/full/10.1080/0735648X.2024.2375371
+---
+<br>
+
+## Abstract
+
+The purpose of this study is to examine whether there is a relationship between the formality of police stop outcomes (e.g., no action v. citation) for stops involving individuals experiencing homelessness and the distance of the stop to service providers. We combine several datasets from the city of San Diego to assess our research question, including: police administrative data from the California Department of Justice, location datasets of food banks, homeless shelters, emergency medical and behavior facilities, and detox centers. Using logistic regressions, we model two outcomes – formality of a stop outcome and noncriminal transportation – with distance to within-city service providers and stop characteristics. We find that as proximity to detox facilities and food banks increases, the likelihood of formal outcomes also increases. Yet, when stops occur farther from emergency housing resources there is a reduction in the likelihood of formal outcomes. As the proximity from food banks increases there is also an increase in the likelihood of noncriminal/caretaking transport. Increasing police accessibility to service providers may reduce the use of formal justice-system outcomes in police encounters with individuals experiencing homelessness, which may also reduce the unintended consequences of entering the justice system for individuals experiencing homelessness.
+
+

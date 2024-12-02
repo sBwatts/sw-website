@@ -1,0 +1,20 @@
+---
+title: "Officers Perceptions of AI-based BWC Analytics: Pre- and Post-Implementation"
+#date: TBD
+author:
+  - Michael D. White
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Aili Malm
+
+  - Seth Watts
+    #url: https://sbwatts.quarto.pub/sbw/
+    #affiliation: School of Criminology and Criminal Justice, Arizona State University
+  - Genesis Navarrete
+
+  - Crystal Abrica
+  
+categories:
+  - Policing
+  - AI
+  - Perceptions
+---
