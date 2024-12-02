@@ -15,7 +15,7 @@ fontfamily: cochineal # default font LaTeX package https://tug.org/FontCatalogue
 #orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: qn8y6 # osf five character id
 #twitter: twitter # twitter handle
-web: sbwatts.quarto.pub/sbw/
+web: sethbwatts.quarto.pub/sethbwatts
 fontawesome: yes
 nocite: '@*'
 bibliography: 
