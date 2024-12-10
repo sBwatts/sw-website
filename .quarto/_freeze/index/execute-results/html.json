@@ -1,15 +1,12 @@
 {
-  "hash": "1650fd7b68863efcb033c8ceba7a5af8",
+  "hash": "68ce28a9693de92e32eeaa69380e22f9",
   "result": {
-    "engine": "knitr",
-    "markdown": "---\ntitle: \"\"\nabout:\n  template: jolla\n  image: headshot.jpg\n  image-width: 13em\n  links:\n    - icon: twitter\n      text: X\n      href: https://x.com/SethBWatts\n    - icon: github\n      text: Github\n      href: https://github.com/sBwatts\npage-layout: full\nresources: \n  - \"headshot.jpg\"\n---\n\n::: {.cell}\n\n:::\n\n\n\nI am a PhD candidate in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research interests broadly include policing and program evaluation. Specific interests include the role of the police in the opioid crisis and related public health issues, technological innovation within police departments, and time series modeling.\n\n\n\n\n\n\n\n",
-    "supporting": [],
-    "filters": [
-      "rmarkdown/pagebreak.lua"
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nabout:\n  template: jolla\n  image: headshot.jpg\n  image-width: 13em\n  links:\n    - icon: twitter\n      text: X\n      href: https://x.com/SethBWatts\n    - icon: github\n      text: Github\n      href: https://github.com/sBwatts\npage-layout: full\nresources: \n  - \"headshot.jpg\"\n---\n\n```{html}\n<section class=\"hero text-center py-5\" style=\"background: linear-gradient(to right, #0073e6, #00c6ff); color: white;\">\n  <div class=\"container\">\n    <h1>Welcome to My Website</h1>\n    <p class=\"lead\">Exploring the intersection of police, public health, and technology.</p>\n    <a href=\"about.html\" class=\"btn btn-light btn-lg mt-3\">Learn More About Me</a>\n  </div>\n</section>\n```\n\n\n\n\nI am a PhD candidate in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research interests broadly include policing and program evaluation. Specific interests include the role of the police in the opioid crisis and related public health issues, technological innovation within police departments, and time series modeling.\n\n",
+    "supporting": [
+      "index_files"
     ],
-    "includes": {},
-    "engineDependencies": {},
-    "preserve": {},
-    "postProcess": true
+    "filters": [],
+    "includes": {}
   }
 }

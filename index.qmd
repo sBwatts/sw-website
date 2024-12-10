@@ -16,16 +16,7 @@ resources:
   - "headshot.jpg"
 ---
 
-```{r}
-
-```
-
-
 I am a PhD candidate in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research interests broadly include policing and program evaluation. Specific interests include the role of the police in the opioid crisis and related public health issues, technological innovation within police departments, and time series modeling.
-
-
-
-
 
 
 

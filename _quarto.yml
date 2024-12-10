@@ -18,13 +18,20 @@ website:
       #- text: "Research"
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: cv2/cv2.qmd
         text: CV
+    right: 
+      - icon: github
+    
 format: 
   html:
+    css: styles.css
     theme: cosmo
     fontsize: 0.95em
-    linestretch: 1.7
+    linestretch: 1.6
+    code-style: solarized-dark
     toc: true
   
   

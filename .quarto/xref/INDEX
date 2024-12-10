@@ -115,5 +115,11 @@
   },
   "research/working-papers/truleo-perceptions-multiwave/index.qmd": {
     "index.html": "da318442"
+  },
+  "teaching.qmd": {
+    "teaching.html": "a11fd477"
+  },
+  "teaching/classes/index.qmd": {
+    "index.html": "dcf61673"
   }
 }

@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/classes/index.html"
+    ]
+  },
+  {
     "listing": "/research.html",
     "items": [
       "/research/articles/tempe-compassion-fatigue-2024/index.html",

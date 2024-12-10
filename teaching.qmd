@@ -1,0 +1,16 @@
+---
+title: "Courses taught"
+listing:
+  - id: classes
+    contents: "classes/index.qmd"
+    #sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    table-hover: true
+date-format: "YYYY"
+page-layout: full
+title-block-banner: false
+---
+
