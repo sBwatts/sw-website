@@ -1,4 +1,4 @@
-This repo contains code for my personal website which is hosted through Quarto pub.
+This repo contains code for my personal website which is hosted on Netlify
 
 The code for my website is largely a conglomeration of a few repositories:
 - Andrew Heiss (https://github.com/andrewheiss/ath-quarto)
