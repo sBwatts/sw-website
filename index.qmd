@@ -1,22 +1,40 @@
 ---
-title: ""
+title: "Seth Watts"
 about:
-  template: jolla
+  id: hero-heading
+  template: trestles
   image: headshot.jpg
   image-width: 13em
+  image-shape: round
   links:
-    - icon: twitter
-      text: X
+    - icon: twitter-x
+      text: ""
       href: https://x.com/SethBWatts
     - icon: github
-      text: Github
+      text: ""
       href: https://github.com/sBwatts
-page-layout: full
-resources: 
-  - "headshot.jpg"
+
+include-after-body: footer.html
+css: styles.css
+#resources: 
+  #- "headshot.jpg"
 ---
 
-I am a PhD candidate in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research interests broadly include policing and program evaluation. Specific interests include the role of the police in the opioid crisis and related public health issues, technological innovation within police departments, and time series modeling.
+:::{#hero-heading}
+##### **About**
+I am a postdoctoral researcher at [Arizona State University](https://www.asu.edu/). 
+
+##### **Research interests** 
+
+My research broadly revolves around policing, public health, and technology. Specifically, I examine the role of police in addressing public health challenges, with a particular emphasis on the opioid crisis, as well as the adoption and effectiveness of technology in police departments. 
+
+##### **Contact**
+
+**swatts12** [at] **asu** [dot] **edu**
+
+:::
+<br>
+
 
 
 

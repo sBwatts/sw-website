@@ -9,6 +9,7 @@ project:
 website:
   title: "Seth Watts"
   description: "Personal website of Seth Watts"
+  site-url: https://sethbwatts.com
   navbar:
     left:
       - href: index.qmd
@@ -24,15 +25,19 @@ website:
         text: CV
     right: 
       - icon: github
+        href: https://github.com/sBwatts
+      - icon: twitter-x
+        href: https://x.com/sethBwatts
+        
     
 format: 
   html:
     css: styles.css
     theme: cosmo
     fontsize: 0.95em
-    linestretch: 1.6
+    #linestretch: 1.6
     code-style: solarized-dark
-    toc: true
+    toc: false
   
   
   

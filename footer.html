@@ -1,0 +1,18 @@
+<footer class="bg-white text-black py-4 text-center">
+<p style="font-size: 0.6em; line-height: 1.2; margin: 0">&copy; <span id="current-year"></span> Seth Watts</p>
+        <p style="font-size: 0.6em; line-height: 1.2; margin: 0">
+            Created in 
+            <a href="https://www.r-project.org/" class="text-light">
+                <span style="color: #276DC3; font-weight: bold;">R</span>
+            </a> 
+            with 
+            <a href="https://quarto.org/" class="text-light">
+                <span style="color: #563d7c; font-weight: bold;">Quarto</span>
+            </a>
+        </p>
+</footer>
+
+<script>
+  // Dynamically set the current year
+  document.getElementById('current-year').textContent = new Date().getFullYear();
+</script>

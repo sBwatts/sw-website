@@ -5,14 +5,14 @@ format:
 author: Seth Watts
 date: last-modified
 #phone: 123-456-7890
-address: "Arizona State University · Phoenix, AZ"
+address: "Postdoctoral Researcher -- Arizona State University"
 email: swatts12@asu.edu
 fontsize: 11pt
-fontfamily: cochineal # default font LaTeX package https://tug.org/FontCatalogue/about.html
-#mainfont: Ubuntu # if you want to use a different locally installed font
+#fontfamily: lmodern # default font LaTeX package https://tug.org/FontCatalogue/about.html
+mainfont: "Roboto" # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 #github:  # github account
-#orcid: 0000-0002-1825-0097 # orcid identifier
+orcid: 0000-0002-5108-9055 # orcid identifier
 #osf: qn8y6 # osf five character id
 #twitter: twitter # twitter handle
 web: sethbwatts.com
@@ -23,6 +23,7 @@ bibliography:
   other: other_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
+
 ---
 
 # Education
@@ -31,13 +32,21 @@ csl: apa-cv.csl
 
 PhD, Criminology and Criminal Justice \hfill 2024
 
-Dissertation: Fostering Collaborative Solutions in the Opioid Overdose Crisis: Law Enforcement as a Potential Partner in Reducing Fatalities
-
 MS, Criminology and Criminal Justice  \hfill 2021
+
+\vspace{1.0em}
 
 *Bowling Green State University* 
 
 BA, Psychology \hfill 2019
+
+# Academic Positions
+
+Postdoctoral Researcher | Arizona State University \hfill 2024-
+
+## Previous Positions
+
+Graduate Research Assistant | Arizona State University \hfill 2020-2024
 
 # Research Interests
 
@@ -49,7 +58,7 @@ Orosco, C., White, M. D., & **Watts, S**. Can deescalation training reduce use o
 
 # Publications
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 92, h-index = 5, i10-index = 3
+[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 100, h-index = 5, i10-index = 3
 
 ## Peer-Reviewed Journal Articles
 
@@ -93,9 +102,9 @@ Seth Watts, Michael D. White, & Aili Malm. "A Process and Outcome Evaluation of 
 
 \noindent 7. White, M. D., **Watts, S**., Malm, A., Perrone, D. (2020) The Tempe First-Responder Opioid Recovery Project, Year 1 Interim Evaluation Report. *Substance Abuse and Mental Health Services Administration*.
 
-# Professional Experience
+# Grant Activity
 
-*Graduate Research Assistant* \hfill 2020-
+*Graduate Research Assistant & Postdoctoral Researcher* \hfill 2020-2025
 
 A Process and Outcome Evaluation of Truleo's Automated Body-Worn Camera Review Technology in Three Arizona Police Departments.
 Funded by: Arnold Ventures. 2024 - 2025 ($501,238).
@@ -113,13 +122,6 @@ Technical Assistance Provider for the National Body-Worn Camera Pilot Implementa
 Center for Violence Prevention and Community Safety, School of Criminology and Criminal Justice, Arizona State University. Funded by: Bureau of Justice Assistance. 2020 – 2022 ($800,000).
 Supervisor: Dr. Michael D. White 
 
-
-*Graduate Service Assistant* \hfill 2019
-
-Arizona State University, School of Criminology and Criminal Justice
-Supervisor: Dr. Cody Telep
-
-
 # Media
 
 Goacher, D. (February 8, 2024). Tempe City Council Funds Project Addressing Opioid Overdose Response, Counseling. *Arizona State Press*. ([Link](https://www.statepress.com/article/2024/02/tempe-first-responder-opioid))
@@ -136,8 +138,7 @@ Watts, S., White, M. D., Malm, A. (November, 2024). How do Officers Perceive AI-
 White, M. D., Malm, A., Watts, S. (November, 2024). Automating Body-Worn Camera Footage Review Through AI:
 Preliminary Findings from a Multi-Site Randomized Control Trial. American Society of Criminology. *Sponsored by the division of Experimental Criminology*.$^P$
 
-Watts, S., White, M. D. (November, 2024). Collaborative Post-Overdose Outreach Efforts to
-Engage Unhoused Individuals. American Society of Criminology.
+Watts, S., White, M. D. (November, 2024). Collaborative Post-Overdose Outreach Efforts to Engage Homeless Individuals. American Society of Criminology.
 
 White, M. D., Watts, S. (June, 2024). Exploring the Drivers of Resistance to Police-Led
 Naloxone Programs. American Society of Evidence Based Policing. 
@@ -196,6 +197,8 @@ American Society of Criminology, Division of Policing Travel Award ($500)   \hfi
 
 
 ## Conferences Attended
+
+American Society of Criminology. San Francisco, California \hfill 2024
 
 American Society of Evidence-Based Policing. Spokane, Washington \hfill 2024
 
@@ -258,9 +261,5 @@ Western Society of Criminology
 
 # References
 
-[Dr. Michael D. White](https://search.asu.edu/profile/1245788) | Professor, Arizona State University | mdwhite1@asu.edu
-
-[Dr. Jacob T.N. Young](https://search.asu.edu/profile/1791683) | Associate Professor, Arizona State University | jacob.young.1@asu.edu
-
-[Dr. Alyssa W. Chamberlain](https://search.asu.edu/profile/909850) | Associate Professor, Arizona State University | Alyssa.Chamberlain@asu.edu
+Available upon request.
 

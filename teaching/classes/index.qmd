@@ -1,6 +1,5 @@
 ---
 title: ""
-editor: visual
 ---
 
 under construction...

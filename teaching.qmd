@@ -12,5 +12,7 @@ listing:
 date-format: "YYYY"
 page-layout: full
 title-block-banner: false
+include-after-body: footer.html
+css: styles.css
 ---
 

@@ -166,6 +166,16 @@ window.Quarto = {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/sBwatts"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/sethBwatts"> <i class="bi bi-twitter-x" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -177,9 +187,7 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
@@ -208,7 +216,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-classes">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1733610824034" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1734638186000" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
 <div class="thumbnail">
 <p><a href="./teaching/classes/index.html" class="no-external"></a></p><a href="./teaching/classes/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -229,6 +237,24 @@ window.Quarto = {
 No matching items
 </div>
 </div></main> <!-- /main -->
+<footer class="bg-white text-black py-4 text-center">
+<p style="font-size: 0.6em; line-height: 1.2; margin: 0">© <span id="current-year"></span> Seth Watts</p>
+        <p style="font-size: 0.6em; line-height: 1.2; margin: 0">
+            Created in 
+            <a href="https://www.r-project.org/" class="text-light">
+                <span style="color: #276DC3; font-weight: bold;">R</span>
+            </a> 
+            with 
+            <a href="https://quarto.org/" class="text-light">
+                <span style="color: #563d7c; font-weight: bold;">Quarto</span>
+            </a>
+        </p>
+</footer>
+
+<script>
+  // Dynamically set the current year
+  document.getElementById('current-year').textContent = new Date().getFullYear();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -310,7 +336,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/sethbwatts\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

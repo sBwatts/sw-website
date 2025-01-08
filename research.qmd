@@ -22,6 +22,8 @@ listing:
 date-format: "YYYY"
 page-layout: full
 title-block-banner: true
+include-after-body: footer.html
+css: styles.css
 ---
 
 ## Journal articles
